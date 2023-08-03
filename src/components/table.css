@@ -1,0 +1,13 @@
+.table1,.tr1,.th1{
+    border:2px solid black ;
+    border-collapse: collapse;
+    background-color: rgb(255, 255, 255);  
+}
+
+.table1,.td1,.tr1,.th1{
+    border-collapse: collapse;
+}
+
+.boxshadow{
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
